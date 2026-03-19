@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Poppins&family=Playfair+Display&display=swap');
+
+/* Home Theme */
+.home-theme {
+  background: #111;
+  color: white;
+  font-family: 'Orbitron', sans-serif;
+  height: 100vh;
+}
+
+/* Gallery Theme */
+.gallery-theme {
+  background: linear-gradient(to right, #ff4b2b, #ff416c);
+  font-family: 'Poppins', sans-serif;
+  min-height: 100vh;
+}
+
+/* Contact Theme */
+.contact-theme {
+  background: #f4f4f4;
+  font-family: 'Playfair Display', serif;
+  min-height: 100vh;
+}
